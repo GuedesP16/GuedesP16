@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Pedro de Araújo Guedes, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente, curso o Bacharelado em Tecnologia da Informação pela UFRN. Apaixonado pela tecnologia, em uma época onde gerar código é tão fácil quanto apertar um botão, defendo a criatividade artística como o triunfo do programador moderno sobre a IA.
+Me chamo Pedro de Araújo Guedes, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente, curso o Bacharelado em Tecnologia da Informação pela UFRN. Apaixonado pela tecnologia, em uma época onde gerar código é tão fácil quanto apertar um botão, defendo a criatividade artística como o triunfo do programador frontend sobre a IA.
 
 ---
 ### 🤖 Linguagens e Tecnologias
